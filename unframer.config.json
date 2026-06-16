@@ -1,0 +1,7 @@
+{
+  "schema": "https://unframer-schema.vercel.app/schema.json",
+  "outDir": "./src/framer",
+  "components": {
+    "navbar-4akc": "https://framer.com/m/navbar-4akC.js@lRHbKGNZF6fN6x3yvnpj"
+  }
+}
